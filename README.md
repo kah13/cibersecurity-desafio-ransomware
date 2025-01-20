@@ -15,13 +15,13 @@
 3 - Nesse passo há a inserção do texto escolhido;
 
 ![Texto alternativo](https://github.com/kah13/cibersecurity-desafio-ransomware/blob/master/4.png)
-4 -Comando para ativação da encriptação, "python encrypter.py";
+4 - Comando para ativação da encriptação, "python encrypter.py";
 
 ![Texto alternativo](https://github.com/kah13/cibersecurity-desafio-ransomware/blob/master/5.png)
 5 - Visualização do arquivo já encriptografado;
 
 ![Texto alternativo](https://github.com/kah13/cibersecurity-desafio-ransomware/blob/master/6.png)
-6 -Comando para a desativação da criptografia, "python decrypter.py";
+6 - Comando para a desativação da criptografia, "python decrypter.py";
 
 ![Texto alternativo](https://github.com/kah13/cibersecurity-desafio-ransomware/blob/master/7.png)
 7 - Visualização do arquivo já descriptografado.
